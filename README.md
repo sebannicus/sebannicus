@@ -27,8 +27,7 @@ Always learning, building, and improving through code.
 🤝 Let’s Connect
 
 I’m open to collaborations, professional opportunities, and innovative projects.
-📫 Reach me at: [your email or LinkedIn link]
-
+📫 Reach me at: https://www.linkedin.com/in/sebasti%C3%A1n-morales-mu%C3%B1oz-3177952a6/?locale=en_US
 ⚡ Fun fact
 
 I’m endlessly curious and believe that every new challenge is a chance to grow — both as a developer and as a person.
