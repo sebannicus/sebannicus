@@ -1,9 +1,34 @@
-👋 Hi, I’m @sebannicus  
-💻 I’m a recently graduated Higher-Level Technician in Programming Analysis from INACAP, passionate about technology and software development.  
-👀 I’m interested in becoming a great developer and turning my ideas into real, innovative projects!  
-🌱 I’m skilled in backend development with Python and Django, and frontend with HTML, CSS, JavaScript, and Bootstrap. I also work with SQL and NoSQL databases like MongoDB, database modeling, and business process modeling (BPMN). I’m familiar with agile methodologies like sprints and committed to delivering secure and high-quality software.  
-🚀 I’m currently learning more about full-stack development and building projects for my portfolio!  
-📫 How to reach me: Send me a message and I’ll get back to you! :)  
-😄 Pronouns: Seba :D  
-⚡ Fun fact: I’m super curious, love to learn new things, and I talk a lot — in a fun way!  
+👋 Hi there! I’m Sebastián Morales (@sebannicus)
 
+💻 Full-Stack Developer | Web3 & AI Enthusiast | Python • Django • Solidity
+
+I’m a recently graduated Programming Analyst from INACAP, driven by a strong passion for technology, software architecture, and building scalable solutions.
+I focus on backend development with Python and Django, while expanding my expertise into Web3, AI, and modern frontend frameworks.
+
+I love turning complex ideas into functional, elegant products — from APIs and databases to full-stack applications that connect real users.
+
+🧠 What I work with
+
+Backend: Python, Django, FastAPI, REST APIs
+
+Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools & Practices: Git, Agile (Scrum/Sprints), BPMN, SOLID, GRASP
+
+Exploring: Solidity, Foundry, Chainlink, LangChain (AI + Blockchain)
+
+🚀 Current Focus
+
+Building my portfolio with real full-stack and blockchain projects, including my main dApp “Tinder de las Fiestas” — a social and event-based Web3 platform.
+Always learning, building, and improving through code.
+
+🤝 Let’s Connect
+
+I’m open to collaborations, professional opportunities, and innovative projects.
+📫 Reach me at: [your email or LinkedIn link]
+
+⚡ Fun fact
+
+I’m endlessly curious and believe that every new challenge is a chance to grow — both as a developer and as a person.
